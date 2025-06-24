@@ -9,8 +9,8 @@
 <img align="right" height="120" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
-
-<p align="left">⚡ Fun fact "Cannot read property 'undefined' of undefined" — from both front-end AND back-end. 😊</p>
+<h4>⚡ Fun fact :</h4>
+<p align="left"> "Cannot read property 'undefined' of undefined" — from both front-end AND back-end. 😊</p>
 
 ###
 

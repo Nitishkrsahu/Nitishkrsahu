@@ -1,7 +1,7 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=nitishkrsahu.nitishkrsahu&"  />
 
 ###
-<span>I am </span>
+I am 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=300&color=3AF926&random=false&width=435&lines=MERN+STACK+Developer...!;UI+FULL+STACK+Developer...!)](https://git.io/typing-svg)
 
 ###

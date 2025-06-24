@@ -3,9 +3,6 @@
 ###
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=300&color=3AF926&random=false&width=435&lines=I+am+MERN+STACK+Developer...!;I+am+UI+FULL+STACK+Developer...!)](https://git.io/typing-svg)
 
-###
-
-<img align="right" height="120" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 <h2 align="left">🧑‍💻 About Me</h2><br>

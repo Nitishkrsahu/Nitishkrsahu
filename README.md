@@ -66,7 +66,6 @@
   
 </div>
 
-###
 
 <div align="center">
   <h3 text="center">Social Links</h3>
@@ -77,5 +76,4 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="37" height="25" alt="discord logo"  />
 </div>
 
-###
 ###

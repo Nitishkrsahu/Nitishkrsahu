@@ -11,6 +11,12 @@
 ###
 <h4>⚡ Fun fact :</h4>
 <p align="left"> "Cannot read property 'undefined' of undefined" — from both front-end AND back-end. 😊</p>
+<br>
+<p>🔭 I’m currently working on Development of Flexible, Sharing and Leasing a Car Using MERN Stack</p>
+<br>
+<p>🌱 I’m currently learning Next.js</p>
+<br>
+<p>👨‍💻 All of my projects are available at https://github.com/nitishkrsahu</p>
 
 ###
 

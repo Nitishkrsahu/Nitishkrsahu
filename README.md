@@ -63,7 +63,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitishkrsahu&radius=16&theme=redical&area=true&order=5&bg_color=#000&color=#fff&hide_border=false" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitishkrsahu&radius=16&theme=redical&area=true&order=5&bg_color=#000&color=#fff&hide_border=false&line=#008060" height="300" alt="activity-graph graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=nitishkrsahu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="100" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nitishkrsahu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=nitishkrsahu&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
@@ -71,12 +71,6 @@
 
 ###
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nitishkrsahu/nitishkrsahu/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nitishkrsahu/nitishkrsahu/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nitishkrsahu/nitishkrsahu/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/nitishkrsahu/nitishkrsahu/output/snake.svg" alt="Snake animation" />
 
 ###

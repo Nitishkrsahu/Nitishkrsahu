@@ -6,11 +6,11 @@
 
 ###
 
-<img align="right" height="100" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="120" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
-<p align="left">Profile View</p>
+<p align="left">⚡ Fun fact "Cannot read property 'undefined' of undefined" — from both front-end AND back-end. 😊</p>
 
 ###
 
@@ -23,7 +23,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="35" alt="tailwindcss logo"  />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="35" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
   <img width="12" />
@@ -41,7 +41,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="35" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="35" alt="jquery logo"  />
   <img width="12" />
@@ -70,6 +70,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nitishkrsahu/nitishkrsahu/output/pacman-contribution-graph-dark.svg">

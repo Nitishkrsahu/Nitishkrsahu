@@ -66,7 +66,6 @@
   
 </div>
 
-[![ShowPR](https://show-pr.vercel.app/api/badge/nitishkrsahu?v=1)](https://show-pr.vercel.app/nitishkrsahu)
 <div align="center">
   <h3 text="center">Social Links</h3>
   <a href="https://www.linkedin.com/in/nitishkrsahu/" target="_blank">

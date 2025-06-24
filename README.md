@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="center">Hey 👋I am MERN STACK Developer.</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=500&color=3AF926&random=false&width=435&lines=Hello..Visionaries!;Nitish+Afzal+Hassan+Ehsani...Here!)](https://git.io/typing-svg)
 
 ###
 

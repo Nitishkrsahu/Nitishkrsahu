@@ -9,8 +9,8 @@
 <img align="right" height="120" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
-<h4>⚡ Fun fact :</h4>
-<p align="left"> "Cannot read property 'undefined' of undefined" — from both front-end AND back-end. 😊</p>
+<h4 style="color: green;">👤 About Me</h4><br>
+<p align="left">⚡ Fun fact : "Cannot read property 'undefined' of undefined" — from both front-end AND back-end. 😊</p>
 <br>
 <p>🔭 I’m currently working on Development of Flexible, Sharing and Leasing a Car Using MERN Stack</p>
 <br>

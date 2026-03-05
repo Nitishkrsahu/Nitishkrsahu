@@ -10,7 +10,7 @@
 <br>
 <p>🔭 I’m currently working on Development of Flexible, Sharing and Leasing a Car Using MERN Stack</p>
 <br>
-<p>🌱 I’m currently learning Next.js</p>
+<p>🌱 I’m currently learning AWS</p>
 <br>
 <p>👨‍💻 All of my projects are available at https://github.com/nitishkrsahu</p>
 

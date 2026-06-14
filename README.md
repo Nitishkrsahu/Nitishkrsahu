@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=500&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=Hi+👋,+I'm+Nitish+Kumar+Sahu;MERN+Stack+Developer;AWS+Cloud+Engineer;Security+Focused+Developer;1%2B+Year+Experience;Building+Production-Grade+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&random=false&width=435&lines=MERN+STACK+Developer...!;AWS+Cloud+Engineer...!" />
 </div>
 
 <div align="right">
@@ -10,55 +10,90 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently working on: **Car Sharing & Leasing Platform using MERN Stack**
-- 🌱 Currently learning: **AWS (ECS, EKS, Terraform)**
-- 👨‍💻 All projects: [github.com/nitishkrsahu](https://github.com/nitishkrsahu)
+- 🔭 I'm currently working on: **Car Sharing & Leasing Platform using MERN Stack**
+- 🌱 I'm currently learning: **AWS (ECS, EKS, Terraform)**
+- 👨‍💻 All of my projects are available at: **[github.com/nitishkrsahu](https://github.com/nitishkrsahu)**
 - 💬 Ask me about: **MERN, JWT, RBAC, AWS EC2**
-- 📫 Reach me: nitishksahu123@gmail.com
-- ⚡ Fun fact: "Cannot read property 'undefined' of undefined" — from both front-end AND back-end 😅
+- 📫 How to reach me: **nitishksahu123@gmail.com**
+- ⚡ Fun fact: "Cannot read property 'undefined' of undefined" — from both front-end AND back-end 😊
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend:**  
-HTML5 | CSS3 | JavaScript | TypeScript | React.js | Next.js | Tailwind CSS | Bootstrap | Material UI
+<div align="center">
 
-**Backend:**  
-Node.js | Express.js | REST APIs | JWT Authentication | RBAC
+### Frontend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="bootstrap" />
+<img width="12" />
+<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="35" alt="tailwindcss" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="35" alt="materialui" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="nextjs" />
 
-**Databases:**  
-MongoDB | MySQL
+<br/><br/>
 
-**Cloud & DevOps:**  
-AWS (EC2, S3, Lambda, CloudWatch) | Docker | Jenkins | Terraform | Linux | Git
+### Backend & Database
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=express" height="35" alt="express" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="35" alt="firebase" />
+
+<br/><br/>
+
+### Cloud & DevOps
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="35" alt="aws" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="35" alt="jenkins" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="35" alt="terraform" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="linux" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git" />
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Tech Stack | Links |
-|---------|------------|-------|
-| Learning Management System (LMS) | MERN, AWS, JWT, RBAC | [Live](https://www.zeroui.in) |
-| 6amMart - Multi-vendor eCommerce | Laravel, MySQL, REST APIs | [GitHub](https://github.com/nitishkrsahu) |
+- **[Learning Management System (LMS)](https://www.zeroui.in)** - MERN Stack, AWS, JWT, RBAC
+- **[6amMart - Multi-vendor eCommerce](https://github.com/nitishkrsahu)** - Laravel, MySQL, REST APIs
 
 ---
 
-## 🏆 Key Achievements
+## 🏆 GitHub Trophies
 
-- ✅ JWT + RBAC authentication with 100% API validation
-- ✅ Expiring token-based video streaming system
-- ✅ 20+ optimized REST APIs (~30% faster response)
-- ✅ AWS EC2 deployment with production-grade config
-- ✅ Eliminated security loopholes (Injection, IDOR, broken access)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=nitishkrsahu&theme=radical&column=4&row=1&margin-w=8&margin-h=8" />
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitishkrsahu&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitishkrsahu&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nitishkrsahu&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitishkrsahu&layout=compact&theme=radical" height="150" />
 </div>
 
 <div align="center">
@@ -66,7 +101,7 @@ AWS (EC2, S3, Lambda, CloudWatch) | Docker | Jenkins | Terraform | Linux | Git
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitishkrsahu&theme=radical" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitishkrsahu&theme=radical" height="250" />
 </div>
 
 ---
@@ -75,25 +110,22 @@ AWS (EC2, S3, Lambda, CloudWatch) | Docker | Jenkins | Terraform | Linux | Git
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nitishkrsahu/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin" />
   </a>
   <a href="https://github.com/nitishkrsahu">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.zeroui.in">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="40" height="30" alt="github" />
   </a>
   <a href="mailto:nitishksahu123@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="gmail" />
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <b>⚡ "First solve the problem, then write the code." – Nitish Kumar Sahu</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=100&section=footer" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=100&section=footer" />
+  <b>⚡ "First solve the problem, then write the code." — Nitish Kumar Sahu</b>
 </div>

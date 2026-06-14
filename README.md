@@ -58,10 +58,22 @@
 - **[6amMart - Multi-vendor eCommerce](https://github.com/nitishkrsahu)** - Laravel, MySQL, REST APIs
 
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=nitishkrsahu&theme=radical&column=4&row=1&margin-w=8&margin-h=8" />
+  
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=nitishkrsahu&label=Profile%20Views&color=ff69b4&style=flat-square" />
+  
+  <br/><br/>
+  
+  <!-- Simple Icons based achievements -->
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Code-Commits-blue?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Security-Focused-red?style=for-the-badge&logo=shield" />
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Engineer-orange?style=for-the-badge&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/MERN-Stack%20Developer-green?style=for-the-badge&logo=mongodb" />
+  
 </div>
 
 

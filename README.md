@@ -51,14 +51,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 
 </div>
----
 
 ## 🚀 Featured Projects
 
 - **[Learning Management System (LMS)](https://www.zeroui.in)** - MERN Stack, AWS, JWT, RBAC
 - **[6amMart - Multi-vendor eCommerce](https://github.com/nitishkrsahu)** - Laravel, MySQL, REST APIs
 
----
 
 ## 🏆 GitHub Trophies
 
@@ -66,7 +64,6 @@
   <img src="https://github-profile-trophy.vercel.app?username=nitishkrsahu&theme=radical&column=4&row=1&margin-w=8&margin-h=8" />
 </div>
 
----
 
 ## 📊 GitHub Stats
 
@@ -83,9 +80,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitishkrsahu&theme=radical" height="250" />
 </div>
 
----
-
-## 🌐 Connect With Me
 
 ## 🌐 Connect With Me
 
@@ -110,7 +104,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="45" height="45" alt="portfolio" />
   </a>
 </div>
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=100&section=footer" />

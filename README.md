@@ -1,3 +1,11 @@
+<!-- 
+  GitHub Profile README – Nitish Kumar Sahu
+  MERN Stack Developer | AWS Cloud Engineer
+  Fully responsive, self-contained, ready to copy/paste into your GitHub profile (README.md)
+  NOTE: For Markdown, images and badges will render normally. HTML structure works perfectly on GitHub.
+  Designed with GitHub's markdown + HTML compatibility.
+-->
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&random=false&width=435&lines=MERN+STACK+Developer...!;AWS+Cloud+Engineer...!" />
 </div>

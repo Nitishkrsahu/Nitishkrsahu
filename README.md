@@ -87,18 +87,29 @@
 
 ## 🌐 Connect With Me
 
+## 🌐 Connect With Me
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/nitishkrsahu/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin" />
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/nitishkrsahu/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45" alt="linkedin" />
   </a>
-  <a href="https://github.com/nitishkrsahu">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="40" height="30" alt="github" />
+  
+  <!-- GitHub -->
+  <a href="https://github.com/nitishkrsahu" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="github" />
   </a>
-  <a href="mailto:nitishksahu123@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="gmail" />
+  
+  <!-- Gmail -->
+  <a href="mailto:nitishksahu123@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45" height="45" alt="gmail" />
+  </a>
+  
+  <!-- Portfolio -->
+  <a href="https://www.zeroui.in" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="45" height="45" alt="portfolio" />
   </a>
 </div>
-
 ---
 
 <div align="center">
